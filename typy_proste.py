@@ -1,6 +1,6 @@
 ### komentarze
 
-##testt
+##test
 #łąńcuchy znaków i ich łączenie
 my_name = "kamila"
 my_another_name = my_name
